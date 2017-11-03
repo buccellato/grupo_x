@@ -1,0 +1,19 @@
+\\VBOXSVR\PagoAgil2C2017\src\PagoAgilFrba\bin\Debug\PagoAgilFrba.exe.config
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\bin\Debug\PagoAgilFrba.exe.config
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\bin\Debug\PagoAgilFrba.exe
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\bin\Debug\PagoAgilFrba.pdb
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.csprojResolveAssemblyReference.cache
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.Properties.Resources.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.csproj.GenerateResource.Cache
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.csproj.CoreCompileInputs.cache
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.exe
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.pdb
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.Login.PantallaLogin.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.PantallaAbmCliente.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.MenuPrincipal.PantallaPrincipal.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaAbmRol.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaAbmEmpresa.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmFactura.PantallaAbmFactura.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmSucursal.PantallaAbmSucursal.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.ListadoEstadistico.PantallaListadoEstadistico.resources
+C:\Users\Franco Buccellato\Dropbox\UTN\Gestion de Datos\Trabajo Practico\Aplicacion Desktop\PagoAgilFrba\obj\Debug\PagoAgilFrba.RegistroPago.PantallaRegistroPago.resources
