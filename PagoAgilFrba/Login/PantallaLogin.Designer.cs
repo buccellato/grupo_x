@@ -40,7 +40,7 @@
             // 
             // userTextBox
             // 
-            this.userTextBox.Location = new System.Drawing.Point(589, 329);
+            this.userTextBox.Location = new System.Drawing.Point(1406, 470);
             this.userTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.userTextBox.Name = "userTextBox";
             this.userTextBox.Size = new System.Drawing.Size(500, 38);
@@ -49,7 +49,7 @@
             // 
             // passTextBox
             // 
-            this.passTextBox.Location = new System.Drawing.Point(589, 477);
+            this.passTextBox.Location = new System.Drawing.Point(1406, 618);
             this.passTextBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.passTextBox.Name = "passTextBox";
             this.passTextBox.PasswordChar = '*';
@@ -59,7 +59,7 @@
             // 
             // ingresarButton
             // 
-            this.ingresarButton.Location = new System.Drawing.Point(589, 577);
+            this.ingresarButton.Location = new System.Drawing.Point(1406, 718);
             this.ingresarButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ingresarButton.Name = "ingresarButton";
             this.ingresarButton.Size = new System.Drawing.Size(488, 81);
@@ -72,7 +72,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(763, 155);
+            this.label1.Location = new System.Drawing.Point(1580, 296);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(148, 58);
             this.label1.TabIndex = 3;
@@ -81,7 +81,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(584, 272);
+            this.label2.Location = new System.Drawing.Point(1401, 413);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(121, 32);
             this.label2.TabIndex = 4;
@@ -90,7 +90,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(584, 403);
+            this.label3.Location = new System.Drawing.Point(1401, 544);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(170, 32);
             this.label3.TabIndex = 5;
@@ -99,7 +99,7 @@
             // adminBox
             // 
             this.adminBox.AutoSize = true;
-            this.adminBox.Location = new System.Drawing.Point(1280, 326);
+            this.adminBox.Location = new System.Drawing.Point(2097, 467);
             this.adminBox.Name = "adminBox";
             this.adminBox.Size = new System.Drawing.Size(134, 36);
             this.adminBox.TabIndex = 6;
@@ -111,7 +111,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1675, 1023);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(2343, 1408);
             this.Controls.Add(this.adminBox);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

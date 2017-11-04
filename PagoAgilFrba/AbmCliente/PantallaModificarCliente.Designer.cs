@@ -42,7 +42,7 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(1881, 1048);
+            this.atrasButton.Location = new System.Drawing.Point(2054, 1043);
             this.atrasButton.Name = "atrasButton";
             this.atrasButton.Size = new System.Drawing.Size(174, 95);
             this.atrasButton.TabIndex = 0;
@@ -54,35 +54,35 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 31;
-            this.listBox1.Location = new System.Drawing.Point(103, 293);
+            this.listBox1.Location = new System.Drawing.Point(276, 288);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(1879, 562);
             this.listBox1.TabIndex = 1;
             // 
             // nombre
             // 
-            this.nombre.Location = new System.Drawing.Point(103, 141);
+            this.nombre.Location = new System.Drawing.Point(276, 136);
             this.nombre.Name = "nombre";
             this.nombre.Size = new System.Drawing.Size(603, 38);
             this.nombre.TabIndex = 2;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(751, 141);
+            this.textBox1.Location = new System.Drawing.Point(924, 136);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(603, 38);
             this.textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(1379, 141);
+            this.textBox2.Location = new System.Drawing.Point(1552, 136);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(603, 38);
             this.textBox2.TabIndex = 4;
             // 
             // filtrarButton
             // 
-            this.filtrarButton.Location = new System.Drawing.Point(103, 209);
+            this.filtrarButton.Location = new System.Drawing.Point(276, 204);
             this.filtrarButton.Name = "filtrarButton";
             this.filtrarButton.Size = new System.Drawing.Size(1878, 55);
             this.filtrarButton.TabIndex = 5;
@@ -92,7 +92,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(107, 96);
+            this.label1.Location = new System.Drawing.Point(280, 91);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(123, 32);
             this.label1.TabIndex = 6;
@@ -101,7 +101,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(745, 96);
+            this.label2.Location = new System.Drawing.Point(918, 91);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(127, 32);
             this.label2.TabIndex = 7;
@@ -110,7 +110,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(1373, 96);
+            this.label3.Location = new System.Drawing.Point(1546, 91);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(94, 32);
             this.label3.TabIndex = 8;
@@ -118,7 +118,7 @@
             // 
             // SeleccionarButton
             // 
-            this.SeleccionarButton.Location = new System.Drawing.Point(1757, 880);
+            this.SeleccionarButton.Location = new System.Drawing.Point(1930, 875);
             this.SeleccionarButton.Name = "SeleccionarButton";
             this.SeleccionarButton.Size = new System.Drawing.Size(223, 106);
             this.SeleccionarButton.TabIndex = 9;
@@ -130,7 +130,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2101, 1175);
+            this.ClientSize = new System.Drawing.Size(2403, 1396);
             this.Controls.Add(this.SeleccionarButton);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

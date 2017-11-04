@@ -42,10 +42,10 @@
             // 
             // AbmRolButton
             // 
-            this.AbmRolButton.Location = new System.Drawing.Point(100, 24);
-            this.AbmRolButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.AbmRolButton.Location = new System.Drawing.Point(1094, 280);
+            this.AbmRolButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AbmRolButton.Name = "AbmRolButton";
-            this.AbmRolButton.Size = new System.Drawing.Size(188, 63);
+            this.AbmRolButton.Size = new System.Drawing.Size(501, 150);
             this.AbmRolButton.TabIndex = 0;
             this.AbmRolButton.Text = "ABM de Rol";
             this.AbmRolButton.UseVisualStyleBackColor = true;
@@ -53,10 +53,10 @@
             // 
             // AbmUsuarioButton
             // 
-            this.AbmUsuarioButton.Location = new System.Drawing.Point(100, 118);
-            this.AbmUsuarioButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.AbmUsuarioButton.Location = new System.Drawing.Point(1094, 504);
+            this.AbmUsuarioButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AbmUsuarioButton.Name = "AbmUsuarioButton";
-            this.AbmUsuarioButton.Size = new System.Drawing.Size(188, 63);
+            this.AbmUsuarioButton.Size = new System.Drawing.Size(501, 150);
             this.AbmUsuarioButton.TabIndex = 1;
             this.AbmUsuarioButton.Text = "ABM de Usuario";
             this.AbmUsuarioButton.UseVisualStyleBackColor = true;
@@ -64,10 +64,10 @@
             // 
             // AbmClienteButton
             // 
-            this.AbmClienteButton.Location = new System.Drawing.Point(100, 220);
-            this.AbmClienteButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.AbmClienteButton.Location = new System.Drawing.Point(1094, 748);
+            this.AbmClienteButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AbmClienteButton.Name = "AbmClienteButton";
-            this.AbmClienteButton.Size = new System.Drawing.Size(188, 63);
+            this.AbmClienteButton.Size = new System.Drawing.Size(501, 150);
             this.AbmClienteButton.TabIndex = 2;
             this.AbmClienteButton.Text = "ABM de Clientes";
             this.AbmClienteButton.UseVisualStyleBackColor = true;
@@ -75,10 +75,10 @@
             // 
             // AbmEmpresaButton
             // 
-            this.AbmEmpresaButton.Location = new System.Drawing.Point(100, 324);
-            this.AbmEmpresaButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.AbmEmpresaButton.Location = new System.Drawing.Point(1094, 996);
+            this.AbmEmpresaButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AbmEmpresaButton.Name = "AbmEmpresaButton";
-            this.AbmEmpresaButton.Size = new System.Drawing.Size(188, 63);
+            this.AbmEmpresaButton.Size = new System.Drawing.Size(501, 150);
             this.AbmEmpresaButton.TabIndex = 3;
             this.AbmEmpresaButton.Text = "ABM de Empresa";
             this.AbmEmpresaButton.UseVisualStyleBackColor = true;
@@ -86,10 +86,10 @@
             // 
             // AbmSucursalButton
             // 
-            this.AbmSucursalButton.Location = new System.Drawing.Point(387, 24);
-            this.AbmSucursalButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.AbmSucursalButton.Location = new System.Drawing.Point(1859, 280);
+            this.AbmSucursalButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AbmSucursalButton.Name = "AbmSucursalButton";
-            this.AbmSucursalButton.Size = new System.Drawing.Size(188, 63);
+            this.AbmSucursalButton.Size = new System.Drawing.Size(501, 150);
             this.AbmSucursalButton.TabIndex = 4;
             this.AbmSucursalButton.Text = "ABM de Sucursal";
             this.AbmSucursalButton.UseVisualStyleBackColor = true;
@@ -97,10 +97,10 @@
             // 
             // AbmFacturasButton
             // 
-            this.AbmFacturasButton.Location = new System.Drawing.Point(387, 118);
-            this.AbmFacturasButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.AbmFacturasButton.Location = new System.Drawing.Point(1859, 504);
+            this.AbmFacturasButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.AbmFacturasButton.Name = "AbmFacturasButton";
-            this.AbmFacturasButton.Size = new System.Drawing.Size(188, 63);
+            this.AbmFacturasButton.Size = new System.Drawing.Size(501, 150);
             this.AbmFacturasButton.TabIndex = 5;
             this.AbmFacturasButton.Text = "ABM de Facturas";
             this.AbmFacturasButton.UseVisualStyleBackColor = true;
@@ -108,10 +108,10 @@
             // 
             // RegistroPagoFacturasButton
             // 
-            this.RegistroPagoFacturasButton.Location = new System.Drawing.Point(387, 220);
-            this.RegistroPagoFacturasButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.RegistroPagoFacturasButton.Location = new System.Drawing.Point(1859, 748);
+            this.RegistroPagoFacturasButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.RegistroPagoFacturasButton.Name = "RegistroPagoFacturasButton";
-            this.RegistroPagoFacturasButton.Size = new System.Drawing.Size(188, 63);
+            this.RegistroPagoFacturasButton.Size = new System.Drawing.Size(501, 150);
             this.RegistroPagoFacturasButton.TabIndex = 6;
             this.RegistroPagoFacturasButton.Text = "Registro de Pago de Facturas";
             this.RegistroPagoFacturasButton.UseVisualStyleBackColor = true;
@@ -119,10 +119,10 @@
             // 
             // RendicionFacturasCobradasButtton
             // 
-            this.RendicionFacturasCobradasButtton.Location = new System.Drawing.Point(387, 324);
-            this.RendicionFacturasCobradasButtton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.RendicionFacturasCobradasButtton.Location = new System.Drawing.Point(1859, 996);
+            this.RendicionFacturasCobradasButtton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.RendicionFacturasCobradasButtton.Name = "RendicionFacturasCobradasButtton";
-            this.RendicionFacturasCobradasButtton.Size = new System.Drawing.Size(188, 63);
+            this.RendicionFacturasCobradasButtton.Size = new System.Drawing.Size(501, 150);
             this.RendicionFacturasCobradasButtton.TabIndex = 7;
             this.RendicionFacturasCobradasButtton.Text = "Rendicion de Facturas Cobradas";
             this.RendicionFacturasCobradasButtton.UseVisualStyleBackColor = true;
@@ -130,10 +130,10 @@
             // 
             // DevolucionesButton
             // 
-            this.DevolucionesButton.Location = new System.Drawing.Point(100, 418);
-            this.DevolucionesButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.DevolucionesButton.Location = new System.Drawing.Point(1094, 1220);
+            this.DevolucionesButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.DevolucionesButton.Name = "DevolucionesButton";
-            this.DevolucionesButton.Size = new System.Drawing.Size(188, 63);
+            this.DevolucionesButton.Size = new System.Drawing.Size(501, 150);
             this.DevolucionesButton.TabIndex = 8;
             this.DevolucionesButton.Text = "Devoluciones";
             this.DevolucionesButton.UseVisualStyleBackColor = true;
@@ -141,10 +141,10 @@
             // 
             // ListadoEstadisticoButton
             // 
-            this.ListadoEstadisticoButton.Location = new System.Drawing.Point(387, 418);
-            this.ListadoEstadisticoButton.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.ListadoEstadisticoButton.Location = new System.Drawing.Point(1859, 1220);
+            this.ListadoEstadisticoButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ListadoEstadisticoButton.Name = "ListadoEstadisticoButton";
-            this.ListadoEstadisticoButton.Size = new System.Drawing.Size(188, 63);
+            this.ListadoEstadisticoButton.Size = new System.Drawing.Size(501, 150);
             this.ListadoEstadisticoButton.TabIndex = 9;
             this.ListadoEstadisticoButton.Text = "Listado Estadistico";
             this.ListadoEstadisticoButton.UseVisualStyleBackColor = true;
@@ -152,10 +152,10 @@
             // 
             // PantallaPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(628, 429);
+            this.ClientSize = new System.Drawing.Size(2403, 1407);
             this.Controls.Add(this.ListadoEstadisticoButton);
             this.Controls.Add(this.DevolucionesButton);
             this.Controls.Add(this.RendicionFacturasCobradasButtton);
@@ -166,7 +166,7 @@
             this.Controls.Add(this.AbmClienteButton);
             this.Controls.Add(this.AbmUsuarioButton);
             this.Controls.Add(this.AbmRolButton);
-            this.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "PantallaPrincipal";
             this.Text = "Pantalla Principal";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

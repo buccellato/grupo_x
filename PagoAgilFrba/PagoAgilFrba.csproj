@@ -74,11 +74,35 @@
     <Compile Include="AbmCliente\PantallaPrincipalAbmCliente.Designer.cs">
       <DependentUpon>PantallaPrincipalAbmCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="AbmEmpresa\PantallaAbmEmpresa.cs">
+    <Compile Include="AbmEmpresa\PantallaCrearEmpresa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AbmEmpresa\PantallaAbmEmpresa.Designer.cs">
-      <DependentUpon>PantallaAbmEmpresa.cs</DependentUpon>
+    <Compile Include="AbmEmpresa\PantallaCrearEmpresa.Designer.cs">
+      <DependentUpon>PantallaCrearEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaEliminarEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaEliminarEmpresa.Designer.cs">
+      <DependentUpon>PantallaEliminarEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaModificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaModificaciones.Designer.cs">
+      <DependentUpon>PantallaModificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaModificarEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaModificarEmpresa.Designer.cs">
+      <DependentUpon>PantallaModificarEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaPrincipalAbmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmEmpresa\PantallaPrincipalAbmEmpresa.Designer.cs">
+      <DependentUpon>PantallaPrincipalAbmEmpresa.cs</DependentUpon>
     </Compile>
     <Compile Include="AbmFactura\PantallaAbmFactura.cs">
       <SubType>Form</SubType>
@@ -169,8 +193,20 @@
     <EmbeddedResource Include="AbmCliente\PantallaPrincipalAbmCliente.resx">
       <DependentUpon>PantallaPrincipalAbmCliente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AbmEmpresa\PantallaAbmEmpresa.resx">
-      <DependentUpon>PantallaAbmEmpresa.cs</DependentUpon>
+    <EmbeddedResource Include="AbmEmpresa\PantallaCrearEmpresa.resx">
+      <DependentUpon>PantallaCrearEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmEmpresa\PantallaEliminarEmpresa.resx">
+      <DependentUpon>PantallaEliminarEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmEmpresa\PantallaModificaciones.resx">
+      <DependentUpon>PantallaModificaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmEmpresa\PantallaModificarEmpresa.resx">
+      <DependentUpon>PantallaModificarEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmEmpresa\PantallaPrincipalAbmEmpresa.resx">
+      <DependentUpon>PantallaPrincipalAbmEmpresa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AbmFactura\PantallaAbmFactura.resx">
       <DependentUpon>PantallaAbmFactura.cs</DependentUpon>

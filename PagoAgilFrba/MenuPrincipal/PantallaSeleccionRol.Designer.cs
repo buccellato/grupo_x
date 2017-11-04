@@ -36,17 +36,18 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(1699, 992);
+            this.atrasButton.Location = new System.Drawing.Point(2107, 1023);
             this.atrasButton.Name = "atrasButton";
             this.atrasButton.Size = new System.Drawing.Size(174, 86);
             this.atrasButton.TabIndex = 0;
             this.atrasButton.Text = "Atras";
             this.atrasButton.UseVisualStyleBackColor = true;
+            this.atrasButton.Click += new System.EventHandler(this.atrasButton_Click);
             // 
             // adminCheck
             // 
             this.adminCheck.AutoSize = true;
-            this.adminCheck.Location = new System.Drawing.Point(722, 353);
+            this.adminCheck.Location = new System.Drawing.Point(1130, 384);
             this.adminCheck.Name = "adminCheck";
             this.adminCheck.Size = new System.Drawing.Size(229, 36);
             this.adminCheck.TabIndex = 1;
@@ -56,7 +57,7 @@
             // cobradorCheck
             // 
             this.cobradorCheck.AutoSize = true;
-            this.cobradorCheck.Location = new System.Drawing.Point(1033, 353);
+            this.cobradorCheck.Location = new System.Drawing.Point(1441, 384);
             this.cobradorCheck.Name = "cobradorCheck";
             this.cobradorCheck.Size = new System.Drawing.Size(171, 36);
             this.cobradorCheck.TabIndex = 2;
@@ -65,7 +66,7 @@
             // 
             // ingresarButton
             // 
-            this.ingresarButton.Location = new System.Drawing.Point(722, 423);
+            this.ingresarButton.Location = new System.Drawing.Point(1130, 454);
             this.ingresarButton.Name = "ingresarButton";
             this.ingresarButton.Size = new System.Drawing.Size(482, 74);
             this.ingresarButton.TabIndex = 3;
@@ -76,7 +77,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1918, 1108);
+            this.ClientSize = new System.Drawing.Size(2406, 1401);
             this.Controls.Add(this.ingresarButton);
             this.Controls.Add(this.cobradorCheck);
             this.Controls.Add(this.adminCheck);

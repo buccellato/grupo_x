@@ -38,7 +38,7 @@ namespace PagoAgilFrba.MenuPrincipal
 
         private void AbmEmpresaButton_Click(object sender, EventArgs e)
         {
-            AbmEmpresa.PantallaAbmEmpresa abm_empresa_view = new AbmEmpresa.PantallaAbmEmpresa();
+            AbmEmpresa.PantallaPrincipalAbmEmpresa abm_empresa_view = new AbmEmpresa.PantallaPrincipalAbmEmpresa();
             abm_empresa_view.Show();
             this.Hide();
         }

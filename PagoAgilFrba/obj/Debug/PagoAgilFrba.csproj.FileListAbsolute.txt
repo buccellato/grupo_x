@@ -36,7 +36,6 @@ C:\Users\Usuario\Source\Repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.csproj
 C:\Users\Usuario\Source\Repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.exe
 C:\Users\Usuario\Source\Repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.pdb
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.csprojResolveAssemblyReference.cache
-C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaAbmEmpresa.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmFactura.PantallaAbmFactura.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmSucursal.PantallaAbmSucursal.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.ListadoEstadistico.PantallaListadoEstadistico.resources
@@ -60,3 +59,8 @@ C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilF
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaModificarRol.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaPrincipalAbmRol.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaCrearRol.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaCrearEmpresa.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaPrincipalAbmEmpresa.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaEliminarEmpresa.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaModificaciones.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaModificarEmpresa.resources
