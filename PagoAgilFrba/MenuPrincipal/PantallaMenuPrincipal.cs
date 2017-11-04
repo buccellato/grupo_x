@@ -31,7 +31,7 @@ namespace PagoAgilFrba.MenuPrincipal
 
         private void AbmClienteButton_Click(object sender, EventArgs e)
         {
-            AbmCliente.PantallaAbmCliente abm_cliente_view = new AbmCliente.PantallaAbmCliente();
+            AbmCliente.PantallaPrincipalAbmCliente abm_cliente_view = new AbmCliente.PantallaPrincipalAbmCliente();
             abm_cliente_view.Show();
             this.Hide();
         }

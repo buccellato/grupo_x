@@ -44,11 +44,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbmCliente\PantallaAbmCliente.cs">
+    <Compile Include="AbmCliente\ModificacionesCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AbmCliente\PantallaAbmCliente.Designer.cs">
-      <DependentUpon>PantallaAbmCliente.cs</DependentUpon>
+    <Compile Include="AbmCliente\ModificacionesCliente.Designer.cs">
+      <DependentUpon>ModificacionesCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaDarBajaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaDarBajaCliente.Designer.cs">
+      <DependentUpon>PantallaDarBajaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaCrearCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaCrearCliente.Designer.cs">
+      <DependentUpon>PantallaCrearCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaModificarCliente.Designer.cs">
+      <DependentUpon>PantallaModificarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaPrincipalAbmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmCliente\PantallaPrincipalAbmCliente.Designer.cs">
+      <DependentUpon>PantallaPrincipalAbmCliente.cs</DependentUpon>
     </Compile>
     <Compile Include="AbmEmpresa\PantallaAbmEmpresa.cs">
       <SubType>Form</SubType>
@@ -74,6 +98,18 @@
     <Compile Include="AbmSucursal\PantallaAbmSucursal.Designer.cs">
       <DependentUpon>PantallaAbmSucursal.cs</DependentUpon>
     </Compile>
+    <Compile Include="PantallaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaLogin.designer.cs">
+      <DependentUpon>PantallaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal\SeleccionDeRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal\SeleccionDeRol.Designer.cs">
+      <DependentUpon>SeleccionDeRol.cs</DependentUpon>
+    </Compile>
     <Compile Include="ListadoEstadistico\PantallaListadoEstadistico.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,12 +121,6 @@
     </Compile>
     <Compile Include="MenuPrincipal\PantallaMenuPrincipal.Designer.cs">
       <DependentUpon>PantallaMenuPrincipal.cs</DependentUpon>
-    </Compile>
-    <Compile Include="PantallaLogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="PantallaLogin.Designer.cs">
-      <DependentUpon>PantallaLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -106,8 +136,20 @@
     <Compile Include="Rendicion\PantallaRendicion.Designer.cs">
       <DependentUpon>PantallaRendicion.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AbmCliente\PantallaAbmCliente.resx">
-      <DependentUpon>PantallaAbmCliente.cs</DependentUpon>
+    <EmbeddedResource Include="AbmCliente\ModificacionesCliente.resx">
+      <DependentUpon>ModificacionesCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmCliente\PantallaDarBajaCliente.resx">
+      <DependentUpon>PantallaDarBajaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmCliente\PantallaCrearCliente.resx">
+      <DependentUpon>PantallaCrearCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmCliente\PantallaModificarCliente.resx">
+      <DependentUpon>PantallaModificarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmCliente\PantallaPrincipalAbmCliente.resx">
+      <DependentUpon>PantallaPrincipalAbmCliente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AbmEmpresa\PantallaAbmEmpresa.resx">
       <DependentUpon>PantallaAbmEmpresa.cs</DependentUpon>
@@ -121,14 +163,17 @@
     <EmbeddedResource Include="AbmSucursal\PantallaAbmSucursal.resx">
       <DependentUpon>PantallaAbmSucursal.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PantallaLogin.resx">
+      <DependentUpon>PantallaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal\SeleccionDeRol.resx">
+      <DependentUpon>SeleccionDeRol.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ListadoEstadistico\PantallaListadoEstadistico.resx">
       <DependentUpon>PantallaListadoEstadistico.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuPrincipal\PantallaMenuPrincipal.resx">
       <DependentUpon>PantallaMenuPrincipal.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="PantallaLogin.resx">
-      <DependentUpon>PantallaLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
