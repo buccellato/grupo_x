@@ -1,6 +1,6 @@
 ﻿namespace PagoAgilFrba.AbmCliente
 {
-    partial class ModificacionesCliente
+    partial class PantallaModificaciones
     {
         /// <summary>
         /// Required designer variable.

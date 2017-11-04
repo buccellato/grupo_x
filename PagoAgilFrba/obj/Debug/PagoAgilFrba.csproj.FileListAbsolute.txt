@@ -38,9 +38,7 @@ C:\Users\Usuario\Source\Repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.pdb
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.csprojResolveAssemblyReference.cache
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaAbmEmpresa.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmFactura.PantallaAbmFactura.resources
-C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaAbmRol.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmSucursal.PantallaAbmSucursal.resources
-C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.rolVentana.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.ListadoEstadistico.PantallaListadoEstadistico.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.MenuPrincipal.PantallaPrincipal.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.Login.PantallaLogin.resources
@@ -56,5 +54,9 @@ C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\bin\Debug\PagoAgilF
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.PantallaCrearCliente.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.PantallaModificarCliente.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.PantallaPrincipalAbmCliente.resources
-C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.ModificacionesCliente.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.PantallaDarBajaCliente.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.MenuPrincipal.PantallaSeleccionRol.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmCliente.PantallaModificaciones.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaModificarRol.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaPrincipalAbmRol.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaCrearRol.resources

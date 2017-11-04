@@ -19,7 +19,7 @@ namespace PagoAgilFrba.MenuPrincipal
 
         private void AbmRolButton_Click(object sender, EventArgs e)
         {
-            AbmRol.PantallaAbmRol abm_rol_view = new AbmRol.PantallaAbmRol();
+            AbmRol.PantallaPrincipalAbmRol abm_rol_view = new AbmRol.PantallaPrincipalAbmRol();
             abm_rol_view.Show();
             this.Hide();
         }

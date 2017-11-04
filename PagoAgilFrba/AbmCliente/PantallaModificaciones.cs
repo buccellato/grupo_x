@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PagoAgilFrba.AbmCliente
 {
-    public partial class ModificacionesCliente : Form
+    public partial class PantallaModificaciones : Form
     {
-        public ModificacionesCliente()
+        public PantallaModificaciones()
         {
             InitializeComponent();
         }

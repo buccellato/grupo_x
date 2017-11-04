@@ -44,11 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbmCliente\ModificacionesCliente.cs">
+    <Compile Include="AbmCliente\PantallaModificaciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AbmCliente\ModificacionesCliente.Designer.cs">
-      <DependentUpon>ModificacionesCliente.cs</DependentUpon>
+    <Compile Include="AbmCliente\PantallaModificaciones.Designer.cs">
+      <DependentUpon>PantallaModificaciones.cs</DependentUpon>
     </Compile>
     <Compile Include="AbmCliente\PantallaDarBajaCliente.cs">
       <SubType>Form</SubType>
@@ -86,11 +86,29 @@
     <Compile Include="AbmFactura\PantallaAbmFactura.Designer.cs">
       <DependentUpon>PantallaAbmFactura.cs</DependentUpon>
     </Compile>
-    <Compile Include="AbmRol\PantallaAbmRol.cs">
+    <Compile Include="AbmRol\PantallaInhabilitarRol.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AbmRol\PantallaAbmRol.Designer.cs">
-      <DependentUpon>PantallaAbmRol.cs</DependentUpon>
+    <Compile Include="AbmRol\PantallaInhabilitarRol.Designer.cs">
+      <DependentUpon>PantallaInhabilitarRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmRol\PantallaModificarRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmRol\PantallaModificarRol.Designer.cs">
+      <DependentUpon>PantallaModificarRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmRol\PantallaPrincipalAbmRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmRol\PantallaPrincipalAbmRol.Designer.cs">
+      <DependentUpon>PantallaPrincipalAbmRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbmRol\PantallaCrearRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbmRol\PantallaCrearRol.Designer.cs">
+      <DependentUpon>PantallaCrearRol.cs</DependentUpon>
     </Compile>
     <Compile Include="AbmSucursal\PantallaAbmSucursal.cs">
       <SubType>Form</SubType>
@@ -98,17 +116,17 @@
     <Compile Include="AbmSucursal\PantallaAbmSucursal.Designer.cs">
       <DependentUpon>PantallaAbmSucursal.cs</DependentUpon>
     </Compile>
-    <Compile Include="PantallaLogin.cs">
+    <Compile Include="MenuPrincipal\PantallaSeleccionRol.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PantallaLogin.designer.cs">
+    <Compile Include="MenuPrincipal\PantallaSeleccionRol.Designer.cs">
+      <DependentUpon>PantallaSeleccionRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\PantallaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\PantallaLogin.designer.cs">
       <DependentUpon>PantallaLogin.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuPrincipal\SeleccionDeRol.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuPrincipal\SeleccionDeRol.Designer.cs">
-      <DependentUpon>SeleccionDeRol.cs</DependentUpon>
     </Compile>
     <Compile Include="ListadoEstadistico\PantallaListadoEstadistico.cs">
       <SubType>Form</SubType>
@@ -136,8 +154,8 @@
     <Compile Include="Rendicion\PantallaRendicion.Designer.cs">
       <DependentUpon>PantallaRendicion.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AbmCliente\ModificacionesCliente.resx">
-      <DependentUpon>ModificacionesCliente.cs</DependentUpon>
+    <EmbeddedResource Include="AbmCliente\PantallaModificaciones.resx">
+      <DependentUpon>PantallaModificaciones.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AbmCliente\PantallaDarBajaCliente.resx">
       <DependentUpon>PantallaDarBajaCliente.cs</DependentUpon>
@@ -157,17 +175,23 @@
     <EmbeddedResource Include="AbmFactura\PantallaAbmFactura.resx">
       <DependentUpon>PantallaAbmFactura.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AbmRol\PantallaAbmRol.resx">
-      <DependentUpon>PantallaAbmRol.cs</DependentUpon>
+    <EmbeddedResource Include="AbmRol\PantallaModificarRol.resx">
+      <DependentUpon>PantallaModificarRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmRol\PantallaPrincipalAbmRol.resx">
+      <DependentUpon>PantallaPrincipalAbmRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmRol\PantallaCrearRol.resx">
+      <DependentUpon>PantallaCrearRol.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AbmSucursal\PantallaAbmSucursal.resx">
       <DependentUpon>PantallaAbmSucursal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PantallaLogin.resx">
-      <DependentUpon>PantallaLogin.cs</DependentUpon>
+    <EmbeddedResource Include="MenuPrincipal\PantallaSeleccionRol.resx">
+      <DependentUpon>PantallaSeleccionRol.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MenuPrincipal\SeleccionDeRol.resx">
-      <DependentUpon>SeleccionDeRol.cs</DependentUpon>
+    <EmbeddedResource Include="Login\PantallaLogin.resx">
+      <DependentUpon>PantallaLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ListadoEstadistico\PantallaListadoEstadistico.resx">
       <DependentUpon>PantallaListadoEstadistico.cs</DependentUpon>

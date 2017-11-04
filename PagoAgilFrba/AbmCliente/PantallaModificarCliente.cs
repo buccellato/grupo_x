@@ -28,7 +28,7 @@ namespace PagoAgilFrba.AbmCliente
         {
             //Completa los datos del cliente seleccionado en ModificacionesCliente
             //Te deja editar el dato que quieras y guardarlo
-            AbmCliente.ModificacionesCliente pantalla_modificaciones_cliente = new AbmCliente.ModificacionesCliente();
+            AbmCliente.PantallaModificaciones pantalla_modificaciones_cliente = new AbmCliente.PantallaModificaciones();
             pantalla_modificaciones_cliente.Show();
             this.Hide();
         }
