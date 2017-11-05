@@ -33,7 +33,7 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(1175, 983);
+            this.atrasButton.Location = new System.Drawing.Point(1996, 1051);
             this.atrasButton.Name = "atrasButton";
             this.atrasButton.Size = new System.Drawing.Size(140, 100);
             this.atrasButton.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1437, 1131);
+            this.ClientSize = new System.Drawing.Size(2298, 1322);
             this.Controls.Add(this.atrasButton);
             this.Name = "PantallaAbmFactura";
             this.Text = "Abm Factura";

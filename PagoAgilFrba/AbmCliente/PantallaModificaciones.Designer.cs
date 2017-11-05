@@ -317,7 +317,7 @@
             this.Controls.Add(this.apellido);
             this.Controls.Add(this.nombre);
             this.Name = "PantallaModificaciones";
-            this.Text = "ModificacionesCliente";
+            this.Text = "Modificar Cliente";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
             this.PerformLayout();

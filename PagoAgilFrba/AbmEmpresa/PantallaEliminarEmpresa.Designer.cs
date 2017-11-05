@@ -42,9 +42,10 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(2089, 1099);
+            this.atrasButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.atrasButton.Location = new System.Drawing.Point(2129, 1068);
             this.atrasButton.Name = "atrasButton";
-            this.atrasButton.Size = new System.Drawing.Size(180, 76);
+            this.atrasButton.Size = new System.Drawing.Size(140, 100);
             this.atrasButton.TabIndex = 0;
             this.atrasButton.Text = "Atras";
             this.atrasButton.UseVisualStyleBackColor = true;
@@ -52,7 +53,8 @@
             // 
             // SeleccionarButton
             // 
-            this.SeleccionarButton.Location = new System.Drawing.Point(2044, 928);
+            this.SeleccionarButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SeleccionarButton.Location = new System.Drawing.Point(2046, 931);
             this.SeleccionarButton.Name = "SeleccionarButton";
             this.SeleccionarButton.Size = new System.Drawing.Size(223, 106);
             this.SeleccionarButton.TabIndex = 85;
@@ -62,32 +64,36 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(1660, 144);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(100, 32);
+            this.label3.Size = new System.Drawing.Size(111, 34);
             this.label3.TabIndex = 84;
             this.label3.Text = "Rubro:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(1032, 144);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(87, 32);
+            this.label2.Size = new System.Drawing.Size(96, 34);
             this.label2.TabIndex = 83;
             this.label2.Text = "CUIT:";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(394, 144);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(123, 32);
+            this.label1.Size = new System.Drawing.Size(139, 34);
             this.label1.TabIndex = 82;
             this.label1.Text = "Nombre:";
             // 
             // filtrarButton
             // 
+            this.filtrarButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.filtrarButton.Location = new System.Drawing.Point(390, 257);
             this.filtrarButton.Name = "filtrarButton";
             this.filtrarButton.Size = new System.Drawing.Size(1878, 55);
@@ -97,32 +103,36 @@
             // 
             // rubro
             // 
+            this.rubro.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rubro.Location = new System.Drawing.Point(1666, 189);
             this.rubro.Name = "rubro";
-            this.rubro.Size = new System.Drawing.Size(603, 38);
+            this.rubro.Size = new System.Drawing.Size(603, 40);
             this.rubro.TabIndex = 80;
             // 
             // cuit
             // 
+            this.cuit.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cuit.Location = new System.Drawing.Point(1038, 189);
             this.cuit.Name = "cuit";
-            this.cuit.Size = new System.Drawing.Size(603, 38);
+            this.cuit.Size = new System.Drawing.Size(603, 40);
             this.cuit.TabIndex = 79;
             // 
             // nombre
             // 
+            this.nombre.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nombre.Location = new System.Drawing.Point(390, 189);
             this.nombre.Name = "nombre";
-            this.nombre.Size = new System.Drawing.Size(603, 38);
+            this.nombre.Size = new System.Drawing.Size(603, 40);
             this.nombre.TabIndex = 78;
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 31;
+            this.listBox1.ItemHeight = 32;
             this.listBox1.Location = new System.Drawing.Point(390, 341);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(1879, 562);
+            this.listBox1.Size = new System.Drawing.Size(1879, 548);
             this.listBox1.TabIndex = 77;
             // 
             // PantallaEliminarEmpresa

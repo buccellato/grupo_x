@@ -19,17 +19,8 @@ namespace PagoAgilFrba.AbmCliente
 
         private void atrasButton_Click(object sender, EventArgs e)
         {
-            AbmCliente.PantallaPrincipalAbmCliente pantalla_principal_cliente = new AbmCliente.PantallaPrincipalAbmCliente();
-            pantalla_principal_cliente.Show();
-            this.Hide();
-        }
-
-        private void SeleccionarButton_Click(object sender, EventArgs e)
-        {
-            //Completa los datos del cliente seleccionado en ModificacionesCliente
-            //Te deja editar el dato que quieras y guardarlo
-            AbmCliente.PantallaModificaciones pantalla_modificaciones_cliente = new AbmCliente.PantallaModificaciones();
-            pantalla_modificaciones_cliente.Show();
+            AbmCliente.PantallaPrincipalAbmCliente pantalla_principal = new AbmCliente.PantallaPrincipalAbmCliente();
+            pantalla_principal.Show();
             this.Hide();
         }
     }

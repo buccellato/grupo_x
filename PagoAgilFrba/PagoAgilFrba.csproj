@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="IrisSkin2">
+      <HintPath>Componentes Graficos Vb2\SKIN NET 2010 WIN 7\SkinVS.NET\IrisSkin2.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -210,6 +213,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AbmFactura\PantallaAbmFactura.resx">
       <DependentUpon>PantallaAbmFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbmRol\PantallaInhabilitarRol.resx">
+      <DependentUpon>PantallaInhabilitarRol.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AbmRol\PantallaModificarRol.resx">
       <DependentUpon>PantallaModificarRol.cs</DependentUpon>

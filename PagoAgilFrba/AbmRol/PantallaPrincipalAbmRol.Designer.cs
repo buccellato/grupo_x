@@ -36,7 +36,8 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(2021, 1074);
+            this.atrasButton.Font = new System.Drawing.Font("Verdana", 9.900001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.atrasButton.Location = new System.Drawing.Point(2258, 1050);
             this.atrasButton.Name = "atrasButton";
             this.atrasButton.Size = new System.Drawing.Size(140, 100);
             this.atrasButton.TabIndex = 0;
@@ -46,10 +47,10 @@
             // 
             // eliminarButton
             // 
-            this.eliminarButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.eliminarButton.Location = new System.Drawing.Point(700, 727);
+            this.eliminarButton.Font = new System.Drawing.Font("Verdana", 20.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.eliminarButton.Location = new System.Drawing.Point(1223, 852);
             this.eliminarButton.Name = "eliminarButton";
-            this.eliminarButton.Size = new System.Drawing.Size(800, 150);
+            this.eliminarButton.Size = new System.Drawing.Size(1175, 150);
             this.eliminarButton.TabIndex = 6;
             this.eliminarButton.Text = "Inhabilitar Rol";
             this.eliminarButton.UseCompatibleTextRendering = true;
@@ -58,10 +59,10 @@
             // 
             // modificarButton
             // 
-            this.modificarButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.modificarButton.Location = new System.Drawing.Point(700, 531);
+            this.modificarButton.Font = new System.Drawing.Font("Verdana", 20.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.modificarButton.Location = new System.Drawing.Point(1223, 656);
             this.modificarButton.Name = "modificarButton";
-            this.modificarButton.Size = new System.Drawing.Size(800, 150);
+            this.modificarButton.Size = new System.Drawing.Size(1175, 150);
             this.modificarButton.TabIndex = 5;
             this.modificarButton.Text = "Modificar Rol";
             this.modificarButton.UseCompatibleTextRendering = true;
@@ -70,10 +71,10 @@
             // 
             // crearButton
             // 
-            this.crearButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.crearButton.Location = new System.Drawing.Point(700, 318);
+            this.crearButton.Font = new System.Drawing.Font("Verdana", 20.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.crearButton.Location = new System.Drawing.Point(1223, 443);
             this.crearButton.Name = "crearButton";
-            this.crearButton.Size = new System.Drawing.Size(800, 150);
+            this.crearButton.Size = new System.Drawing.Size(1175, 150);
             this.crearButton.TabIndex = 4;
             this.crearButton.Text = "Crear Rol";
             this.crearButton.UseCompatibleTextRendering = true;
@@ -85,7 +86,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(2200, 1194);
+            this.ClientSize = new System.Drawing.Size(2869, 1258);
             this.Controls.Add(this.eliminarButton);
             this.Controls.Add(this.modificarButton);
             this.Controls.Add(this.crearButton);

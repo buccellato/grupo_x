@@ -93,7 +93,7 @@
             this.filtrarButton.Name = "filtrarButton";
             this.filtrarButton.Size = new System.Drawing.Size(1878, 55);
             this.filtrarButton.TabIndex = 72;
-            this.filtrarButton.Text = "Filtrar";
+            this.filtrarButton.Text = "Buscar";
             this.filtrarButton.UseVisualStyleBackColor = true;
             // 
             // rubro

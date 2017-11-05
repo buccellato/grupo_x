@@ -42,19 +42,21 @@
             // 
             // cancelarButton
             // 
-            this.cancelarButton.Location = new System.Drawing.Point(1769, 1073);
+            this.cancelarButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cancelarButton.Location = new System.Drawing.Point(2511, 1339);
             this.cancelarButton.Name = "cancelarButton";
-            this.cancelarButton.Size = new System.Drawing.Size(167, 87);
+            this.cancelarButton.Size = new System.Drawing.Size(140, 100);
             this.cancelarButton.TabIndex = 0;
-            this.cancelarButton.Text = "Cancelar";
+            this.cancelarButton.Text = "Atras";
             this.cancelarButton.UseVisualStyleBackColor = true;
             this.cancelarButton.Click += new System.EventHandler(this.cancelarButton_Click);
             // 
             // aceptarButton
             // 
-            this.aceptarButton.Location = new System.Drawing.Point(1566, 1073);
+            this.aceptarButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.aceptarButton.Location = new System.Drawing.Point(2512, 1219);
             this.aceptarButton.Name = "aceptarButton";
-            this.aceptarButton.Size = new System.Drawing.Size(167, 87);
+            this.aceptarButton.Size = new System.Drawing.Size(140, 100);
             this.aceptarButton.TabIndex = 1;
             this.aceptarButton.Text = "Aceptar";
             this.aceptarButton.UseVisualStyleBackColor = true;
@@ -63,33 +65,37 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(1326, 97);
+            this.label3.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(2043, 258);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(94, 32);
+            this.label3.Size = new System.Drawing.Size(113, 34);
             this.label3.TabIndex = 17;
             this.label3.Text = "D.N.I.:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(698, 97);
+            this.label2.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(1415, 258);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(127, 32);
+            this.label2.Size = new System.Drawing.Size(142, 34);
             this.label2.TabIndex = 16;
             this.label2.Text = "Apellido:";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(60, 97);
+            this.label1.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(777, 258);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(123, 32);
+            this.label1.Size = new System.Drawing.Size(139, 34);
             this.label1.TabIndex = 15;
             this.label1.Text = "Nombre:";
             // 
             // filtrarButton
             // 
-            this.filtrarButton.Location = new System.Drawing.Point(56, 210);
+            this.filtrarButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.filtrarButton.Location = new System.Drawing.Point(773, 371);
             this.filtrarButton.Name = "filtrarButton";
             this.filtrarButton.Size = new System.Drawing.Size(1878, 55);
             this.filtrarButton.TabIndex = 14;
@@ -98,39 +104,43 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(1332, 142);
+            this.textBox2.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.Location = new System.Drawing.Point(2049, 303);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(603, 38);
+            this.textBox2.Size = new System.Drawing.Size(603, 40);
             this.textBox2.TabIndex = 13;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(704, 142);
+            this.textBox1.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(1421, 303);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(603, 38);
+            this.textBox1.Size = new System.Drawing.Size(603, 40);
             this.textBox1.TabIndex = 12;
             // 
             // nombre
             // 
-            this.nombre.Location = new System.Drawing.Point(56, 142);
+            this.nombre.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nombre.Location = new System.Drawing.Point(773, 303);
             this.nombre.Name = "nombre";
-            this.nombre.Size = new System.Drawing.Size(603, 38);
+            this.nombre.Size = new System.Drawing.Size(603, 40);
             this.nombre.TabIndex = 11;
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 31;
-            this.listBox1.Location = new System.Drawing.Point(56, 294);
+            this.listBox1.ItemHeight = 32;
+            this.listBox1.Location = new System.Drawing.Point(773, 455);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(1879, 748);
+            this.listBox1.Size = new System.Drawing.Size(1879, 740);
             this.listBox1.TabIndex = 10;
             // 
             // PantallaDarBajaCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1990, 1193);
+            this.ClientSize = new System.Drawing.Size(2790, 1451);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);

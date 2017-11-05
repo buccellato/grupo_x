@@ -16,5 +16,12 @@ namespace PagoAgilFrba.AbmRol
         {
             InitializeComponent();
         }
+
+        private void atrasButton_Click(object sender, EventArgs e)
+        {
+            AbmRol.PantallaPrincipalAbmRol pantalla_principal = new AbmRol.PantallaPrincipalAbmRol();
+            pantalla_principal.Show();
+            this.Hide();
+        }
     }
 }

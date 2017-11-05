@@ -36,7 +36,8 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(2430, 1105);
+            this.atrasButton.Font = new System.Drawing.Font("Verdana", 9.900001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.atrasButton.Location = new System.Drawing.Point(2250, 1037);
             this.atrasButton.Name = "atrasButton";
             this.atrasButton.Size = new System.Drawing.Size(140, 100);
             this.atrasButton.TabIndex = 0;
@@ -46,10 +47,10 @@
             // 
             // crearButton
             // 
-            this.crearButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.crearButton.Location = new System.Drawing.Point(1265, 276);
+            this.crearButton.Font = new System.Drawing.Font("Verdana", 20.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.crearButton.Location = new System.Drawing.Point(1215, 329);
             this.crearButton.Name = "crearButton";
-            this.crearButton.Size = new System.Drawing.Size(800, 150);
+            this.crearButton.Size = new System.Drawing.Size(1175, 150);
             this.crearButton.TabIndex = 1;
             this.crearButton.Text = "Crear Cliente";
             this.crearButton.UseCompatibleTextRendering = true;
@@ -58,10 +59,10 @@
             // 
             // modificarButton
             // 
-            this.modificarButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.modificarButton.Location = new System.Drawing.Point(1265, 489);
+            this.modificarButton.Font = new System.Drawing.Font("Verdana", 20.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.modificarButton.Location = new System.Drawing.Point(1215, 542);
             this.modificarButton.Name = "modificarButton";
-            this.modificarButton.Size = new System.Drawing.Size(800, 150);
+            this.modificarButton.Size = new System.Drawing.Size(1175, 150);
             this.modificarButton.TabIndex = 2;
             this.modificarButton.Text = "Modificar Cliente";
             this.modificarButton.UseCompatibleTextRendering = true;
@@ -70,10 +71,10 @@
             // 
             // eliminarButton
             // 
-            this.eliminarButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.eliminarButton.Location = new System.Drawing.Point(1265, 685);
+            this.eliminarButton.Font = new System.Drawing.Font("Verdana", 20.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.eliminarButton.Location = new System.Drawing.Point(1215, 738);
             this.eliminarButton.Name = "eliminarButton";
-            this.eliminarButton.Size = new System.Drawing.Size(800, 150);
+            this.eliminarButton.Size = new System.Drawing.Size(1175, 150);
             this.eliminarButton.TabIndex = 3;
             this.eliminarButton.Text = "Dar de Baja Cliente";
             this.eliminarButton.UseCompatibleTextRendering = true;
@@ -85,7 +86,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(2625, 1484);
+            this.ClientSize = new System.Drawing.Size(2801, 1339);
             this.Controls.Add(this.eliminarButton);
             this.Controls.Add(this.modificarButton);
             this.Controls.Add(this.crearButton);

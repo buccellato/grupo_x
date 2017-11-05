@@ -155,6 +155,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(2403, 1407);
             this.Controls.Add(this.ListadoEstadisticoButton);
             this.Controls.Add(this.DevolucionesButton);

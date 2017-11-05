@@ -35,10 +35,7 @@ namespace PagoAgilFrba.Login
 
         private void ingresarButton_Click(object sender, EventArgs e)
         {
-            
-            if (intentos <= 3)
-            {
-               
+        
                 //Compararlo contra uno de los usuarios de la BD
                 string user = "admin";
                 //Compararlo contra la contraseña del usuario obtenido de la BD
@@ -58,14 +55,14 @@ namespace PagoAgilFrba.Login
                 {
                     MessageBox.Show("Ingrese la Contraseña");
                 }
-                else if (userTextBox.Text == user && passTextBox.Text == pass && adminBox.Checked == false)
+                else if (userTextBox.Text == user && passTextBox.Text == pass && adminBox.Checked == false && intentos <= 3)
                 {
                     intentos = 0;
-                    MenuPrincipal.PantallaPrincipal aux = new MenuPrincipal.PantallaPrincipal();
-                    aux.Show();
+                    MenuPrincipal.PantallaPrincipal pantalla_principal = new MenuPrincipal.PantallaPrincipal();
+                    pantalla_principal.Show();
                     this.Hide();
                 }
-                else if (userTextBox.Text == user && passTextBox.Text == pass && adminBox.Checked == true)
+                else if (userTextBox.Text == user && passTextBox.Text == pass && adminBox.Checked == true && intentos <= 3)
                                     {
                     intentos = 0;
 
@@ -73,20 +70,19 @@ namespace PagoAgilFrba.Login
                     pantalla_seleccion_rol.Show();
                     this.Hide();
                 }
-                else
+                else if (intentos <= 3)
                 {
                     MessageBox.Show("El usuario y/o la contraseña son incorrecto. Intentelo Nuevamente");
                     userTextBox.Clear();
                     passTextBox.Clear();
                     intentos++;
                 }
-            }
-            else
-            {
-                //Bloquear al usuario
-                MessageBox.Show("Usuario bloqueado");
-                this.Close();
-            }
+                else
+                {
+                    //Bloquear al usuario
+                    MessageBox.Show("Usuario bloqueado");
+                    this.Close();
+                }
     }
     private void userTextBox_TextChanged(object sender, EventArgs e)
     {

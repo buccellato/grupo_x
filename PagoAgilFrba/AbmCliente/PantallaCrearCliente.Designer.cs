@@ -57,195 +57,217 @@
             // 
             // nombre
             // 
-            this.nombre.Location = new System.Drawing.Point(700, 200);
+            this.nombre.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nombre.Location = new System.Drawing.Point(1495, 308);
             this.nombre.Name = "nombre";
-            this.nombre.Size = new System.Drawing.Size(709, 38);
+            this.nombre.Size = new System.Drawing.Size(709, 40);
             this.nombre.TabIndex = 0;
             // 
             // apellido
             // 
-            this.apellido.Location = new System.Drawing.Point(700, 279);
+            this.apellido.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.apellido.Location = new System.Drawing.Point(1495, 387);
             this.apellido.Name = "apellido";
-            this.apellido.Size = new System.Drawing.Size(709, 38);
+            this.apellido.Size = new System.Drawing.Size(709, 40);
             this.apellido.TabIndex = 1;
             // 
             // dni
             // 
-            this.dni.Location = new System.Drawing.Point(700, 355);
+            this.dni.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dni.Location = new System.Drawing.Point(1495, 463);
             this.dni.Name = "dni";
-            this.dni.Size = new System.Drawing.Size(709, 38);
+            this.dni.Size = new System.Drawing.Size(709, 40);
             this.dni.TabIndex = 2;
             // 
             // mail
             // 
-            this.mail.Location = new System.Drawing.Point(700, 432);
+            this.mail.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.mail.Location = new System.Drawing.Point(1495, 540);
             this.mail.Name = "mail";
-            this.mail.Size = new System.Drawing.Size(709, 38);
+            this.mail.Size = new System.Drawing.Size(709, 40);
             this.mail.TabIndex = 3;
             // 
             // telefono
             // 
-            this.telefono.Location = new System.Drawing.Point(700, 511);
+            this.telefono.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.telefono.Location = new System.Drawing.Point(1495, 619);
             this.telefono.Name = "telefono";
-            this.telefono.Size = new System.Drawing.Size(709, 38);
+            this.telefono.Size = new System.Drawing.Size(709, 40);
             this.telefono.TabIndex = 4;
             this.telefono.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // calle
             // 
-            this.calle.Location = new System.Drawing.Point(700, 587);
+            this.calle.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.calle.Location = new System.Drawing.Point(1495, 695);
             this.calle.Name = "calle";
-            this.calle.Size = new System.Drawing.Size(709, 38);
+            this.calle.Size = new System.Drawing.Size(709, 40);
             this.calle.TabIndex = 5;
             // 
             // piso
             // 
-            this.piso.Location = new System.Drawing.Point(700, 664);
+            this.piso.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.piso.Location = new System.Drawing.Point(1495, 772);
             this.piso.Name = "piso";
-            this.piso.Size = new System.Drawing.Size(709, 38);
+            this.piso.Size = new System.Drawing.Size(709, 40);
             this.piso.TabIndex = 6;
             // 
             // depto
             // 
-            this.depto.Location = new System.Drawing.Point(700, 740);
+            this.depto.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.depto.Location = new System.Drawing.Point(1495, 848);
             this.depto.Name = "depto";
-            this.depto.Size = new System.Drawing.Size(709, 38);
+            this.depto.Size = new System.Drawing.Size(709, 40);
             this.depto.TabIndex = 7;
             // 
             // localidad
             // 
-            this.localidad.Location = new System.Drawing.Point(700, 818);
+            this.localidad.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.localidad.Location = new System.Drawing.Point(1495, 926);
             this.localidad.Name = "localidad";
-            this.localidad.Size = new System.Drawing.Size(709, 38);
+            this.localidad.Size = new System.Drawing.Size(709, 40);
             this.localidad.TabIndex = 8;
             // 
             // codigoPostal
             // 
-            this.codigoPostal.Location = new System.Drawing.Point(700, 895);
+            this.codigoPostal.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.codigoPostal.Location = new System.Drawing.Point(1495, 1003);
             this.codigoPostal.Name = "codigoPostal";
-            this.codigoPostal.Size = new System.Drawing.Size(709, 38);
+            this.codigoPostal.Size = new System.Drawing.Size(709, 40);
             this.codigoPostal.TabIndex = 9;
             // 
             // fechaNacimineto
             // 
-            this.fechaNacimineto.Location = new System.Drawing.Point(700, 968);
+            this.fechaNacimineto.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.fechaNacimineto.Location = new System.Drawing.Point(1495, 1076);
             this.fechaNacimineto.Name = "fechaNacimineto";
-            this.fechaNacimineto.Size = new System.Drawing.Size(709, 38);
+            this.fechaNacimineto.Size = new System.Drawing.Size(709, 40);
             this.fechaNacimineto.TabIndex = 10;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(536, 203);
+            this.label1.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(1283, 314);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(123, 32);
+            this.label1.Size = new System.Drawing.Size(139, 34);
             this.label1.TabIndex = 11;
             this.label1.Text = "Nombre:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(536, 282);
+            this.label2.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(1283, 393);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(127, 32);
+            this.label2.Size = new System.Drawing.Size(142, 34);
             this.label2.TabIndex = 12;
             this.label2.Text = "Apellido:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(565, 358);
+            this.label3.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(1312, 469);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(94, 32);
+            this.label3.Size = new System.Drawing.Size(113, 34);
             this.label3.TabIndex = 13;
             this.label3.Text = "D.N.I.:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(583, 435);
+            this.label4.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(1330, 546);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(76, 32);
+            this.label4.Size = new System.Drawing.Size(87, 34);
             this.label4.TabIndex = 14;
             this.label4.Text = "Mail:";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(524, 514);
+            this.label5.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(1271, 625);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(135, 32);
+            this.label5.Size = new System.Drawing.Size(147, 34);
             this.label5.TabIndex = 15;
             this.label5.Text = "Telefono:";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(462, 898);
+            this.label6.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(1209, 1009);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(201, 32);
+            this.label6.Size = new System.Drawing.Size(220, 34);
             this.label6.TabIndex = 20;
             this.label6.Text = "Codigo Postal:";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(516, 821);
+            this.label7.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(1263, 932);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(147, 32);
+            this.label7.Size = new System.Drawing.Size(162, 34);
             this.label7.TabIndex = 19;
             this.label7.Text = "Localidad:";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(456, 743);
+            this.label8.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(1203, 854);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(203, 32);
+            this.label8.Size = new System.Drawing.Size(231, 34);
             this.label8.TabIndex = 18;
             this.label8.Text = "Departamento:";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(580, 667);
+            this.label9.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(1327, 778);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(79, 32);
+            this.label9.Size = new System.Drawing.Size(86, 34);
             this.label9.TabIndex = 17;
             this.label9.Text = "Piso:";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(570, 590);
+            this.label10.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(1317, 701);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(89, 32);
+            this.label10.Size = new System.Drawing.Size(100, 34);
             this.label10.TabIndex = 16;
             this.label10.Text = "Calle:";
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(368, 971);
+            this.label11.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(1115, 1082);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(291, 32);
+            this.label11.Size = new System.Drawing.Size(325, 34);
             this.label11.TabIndex = 21;
             this.label11.Text = "Fecha de Nacimiento:";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(661, 105);
+            this.label12.Font = new System.Drawing.Font("Verdana", 9.900001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(1488, 217);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(706, 58);
+            this.label12.Size = new System.Drawing.Size(543, 41);
             this.label12.TabIndex = 22;
             this.label12.Text = "Complete los siguientes datos:";
             // 
             // ingresarClienteButton
             // 
-            this.ingresarClienteButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ingresarClienteButton.Location = new System.Drawing.Point(700, 1050);
+            this.ingresarClienteButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ingresarClienteButton.Location = new System.Drawing.Point(1495, 1158);
             this.ingresarClienteButton.Name = "ingresarClienteButton";
             this.ingresarClienteButton.Size = new System.Drawing.Size(708, 113);
             this.ingresarClienteButton.TabIndex = 23;
@@ -255,9 +277,10 @@
             // 
             // atrasButton
             // 
-            this.atrasButton.Location = new System.Drawing.Point(1757, 1144);
+            this.atrasButton.Font = new System.Drawing.Font("Verdana", 8.1F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.atrasButton.Location = new System.Drawing.Point(2067, 1312);
             this.atrasButton.Name = "atrasButton";
-            this.atrasButton.Size = new System.Drawing.Size(136, 78);
+            this.atrasButton.Size = new System.Drawing.Size(140, 100);
             this.atrasButton.TabIndex = 24;
             this.atrasButton.Text = "Atras";
             this.atrasButton.UseVisualStyleBackColor = true;
@@ -267,7 +290,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1915, 1234);
+            this.ClientSize = new System.Drawing.Size(2587, 1481);
             this.Controls.Add(this.atrasButton);
             this.Controls.Add(this.ingresarClienteButton);
             this.Controls.Add(this.label12);

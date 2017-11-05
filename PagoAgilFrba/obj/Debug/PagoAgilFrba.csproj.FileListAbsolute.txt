@@ -64,3 +64,5 @@ C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilF
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaEliminarEmpresa.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaModificaciones.resources
 C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmEmpresa.PantallaModificarEmpresa.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\obj\Debug\PagoAgilFrba.AbmRol.PantallaInhabilitarRol.resources
+C:\Users\Franco Buccellato\source\repos\grupo_x\PagoAgilFrba\bin\Debug\IrisSkin2.dll
